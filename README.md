@@ -1,14 +1,20 @@
-### Hi there 👋
+### Hello World!!! 👋
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheesootory%2Fhit-counter&count_bg=%233DC8AF&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=93hschoi)](https://solved.ac/백준아이디/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesootory&show_icons=true&theme=cobalt)
 
 
 <h2>  My Tech Stack 🦅 </h2>
 
-<img src="https://img.shields.io/badge/pug-A86454?style=plastic&logo=pug&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<p>
+
+<img src="https://img.shields.io/badge/C Sharp-a6c1ee?style=for-the-badge&logo=C Sharp&logoColor=white">
+<img src="https://img.shields.io/badge/C-a6c1ee?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-a6c1ee?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/github-a6c1ee?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -22,10 +28,10 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-
-
-https://img.shields.io/github/followers/heesootory?style=social
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesootory&layout=compact&theme=gruvbox)
 
 
