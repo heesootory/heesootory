@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/pug-A86454?style=for-the-badge&logo=pug&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/vim-#019733?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesootory&layout=compact&theme=gruvbox)
