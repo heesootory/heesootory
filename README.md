@@ -20,7 +20,6 @@
 
 <img src="https://img.shields.io/badge/C Sharp-a6c1ee?style=for-the-badge&logo=C Sharp&logoColor=white">
 <img src="https://img.shields.io/badge/C-a6c1ee?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-a6c1ee?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/github-a6c1ee?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
