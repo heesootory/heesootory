@@ -1,4 +1,4 @@
-<div background-color:gray>
+<div background-color:#ffffff>
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0aa85e,100:ffffff&height=300&section=header&text=HeeSoo&fontSize=70&fontColor=595b5a&animation=fadeIn)
   
