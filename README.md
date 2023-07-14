@@ -131,7 +131,7 @@
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesootory)](https://github.com/heesootory/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesootory&layout=compact&theme=gruvbox)](https://github.com/heesootory/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesootory&layout=compact&theme=gruvbox)
 
