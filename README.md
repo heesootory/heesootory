@@ -133,8 +133,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesootory&layout=compact&theme=gruvbox)](https://github.com/heesootory/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heesootory&layout=compact&theme=gruvbox)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heesootory)](https://github.com/heesootory/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0aa85e,100:ffffff&height=100&section=footer)
 
