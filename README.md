@@ -102,7 +102,7 @@
 ---
 
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0aa85e,100:ffffff&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:74eeb1,100:193549&height=100&section=footer)
 
 
   
