@@ -12,7 +12,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=heesootory&show_icons=true&theme=cobalt"
         media="(prefers-color-scheme: dark)"
       />
-      <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      <img align="right" height=250 width="50%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
 
 ## 📜 Experience
