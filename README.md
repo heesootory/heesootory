@@ -69,8 +69,8 @@
   - ETC(Infra || Third Party Tools) <br> 
     <img src="https://img.shields.io/badge/nginx-009639?style=plastic-square&logo=Nginx&logoColor=white">
     <img src="https://img.shields.io/badge/linux-yellow?style=plastic-square&logo=Linux&logoColor=black">
+      <img src="https://img.shields.io/badge/ubuntu-D24939?style=plastic-square&logo=Ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/docker-2481D4?style=plastic-square&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/ubuntu-D24939?style=plastic-square&logo=Ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/jenkins-D33832?style=plastic-square&logo=Jenkins&logoColor=black">
     <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=plastic-square&logo=Amazon AWS&logoColor=black">
     <img src="https://img.shields.io/badge/Let's Encrypt-003A70?style=plastic-square&logo=Let's Encrypt&logoColor=white">
