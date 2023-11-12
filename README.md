@@ -5,8 +5,8 @@
 <a href="https://www.instagram.com/c._.heesoo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:93choiheesoo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.notion.so/4fddd3bff62245329cdeb3f6dfee41b7?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
+<a href="https://github.com/heesootory/heesootory/files/13327833/_.pdf"><img src="https://camo.githubusercontent.com/d2918fd7767c16a02124e32c34c2b73931199c4a02b7108fcedf5c837d235aae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652ff09f9384436c69636b20746f20646f776e6c6f616420617320504446212d2532303f6c6162656c3d706f7274666f6c696f266c6162656c436f6c6f723d626c61636b26636f6c6f723d67726579267374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/badge/📄Click to download as PDF!-%20?label=portfolio&amp;labelColor=black&amp;color=grey&amp;style=flat-square" style="max-width: 100%;"></a>
 
-<div>
   <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=heesootory&show_icons=true&theme=cobalt"
