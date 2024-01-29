@@ -29,9 +29,7 @@
 
 <div>
   
-  <a href="https://github.com/heesootory/convoychat">
-    <img height=250 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heesootory&layout=compact&theme=cobalt&langs_count=10&card_width=350" />
-  </a>
+  
 
 
   ## 🛠 My Tech Stack 
