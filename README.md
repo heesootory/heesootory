@@ -19,7 +19,8 @@
 - Samsung Everland (2013.02~2013.10)
 - Samsung Tenacity Finance Volunteer 8th (2020.02 ~ 2020.07)
 - Samsung SW Academy 8th (2022.07 ~ 2023.06) 
-  
+- Toshiba Global Commerce Solutions (2024.01 ~ )
+
 </div>  
 
 ---
